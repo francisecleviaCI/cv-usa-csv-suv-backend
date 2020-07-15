@@ -1,5 +1,10 @@
 
 
+const getRow = function(csv){
+
+  return csv.split(',')
+
+}
 
 
 

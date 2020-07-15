@@ -2,7 +2,6 @@
 
 
 
-
 if (typeof getRows === 'undefined') {
   getRows = undefined;
 }
